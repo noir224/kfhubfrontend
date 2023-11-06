@@ -1,0 +1,41 @@
+.assigned-users-searchbar{
+  max-height: 100px;
+  max-width: 530px;
+  padding: 3%;
+  margin-left: 42px;
+  display: flex;
+  border-radius: 10px;
+  overflow: visible;
+  background-color: rgba(255, 255, 255, 0.555);
+  border: none;
+  box-shadow: 3px 3px 0px 0.22px rgba(0, 0, 0, 0.208);
+  padding-left: 5%;
+  color: #444751;
+  display: flexbox;
+  flex-direction: column;
+  line-height: 2.0;
+  
+}
+.assigned-item-searchbar{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.suggestions_item-searchbar{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+

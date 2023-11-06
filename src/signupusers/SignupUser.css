@@ -1,0 +1,33 @@
+.img-signupusers{
+  width: 100%;
+  height: 20%;
+}
+
+.label-signupusers{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #000000;
+  align-items: center;
+  text-align: center;
+}
+
+.userIcon-signupusers {
+  color: #007C4C;
+  margin-left: 12%;
+  margin-bottom: 30%;
+}
+
+.cir-signupusers {
+  position: absolute;
+  top: 0.4%;
+  right: 0.1em;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  border: 0.27em solid #007C4C;
+}

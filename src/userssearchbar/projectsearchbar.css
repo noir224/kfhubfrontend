@@ -1,0 +1,40 @@
+.searchbarcontainer1-projects {
+    max-height: 56px;
+    max-width: 375px;
+    height: 80%;
+    width: 50%;
+    padding: 1%;
+    margin-left: 40px;
+    display: flex;
+    border-radius: 30px;
+    overflow: visible;
+    background-color: rgba(255, 255, 255, 0.555);
+    border: none;
+    box-shadow: 3px 3px 0px 0.22px rgba(0, 0, 0, 0.208);
+    
+    top: 2%;
+    
+  }
+  .buttonimg-projects {
+    max-width: 20px;
+    max-height: 20px;
+    size: 10%;
+    border: none;
+    /* margin-right: 13px; */
+    float: right;
+  }
+  
+.searchbar-projects {
+    max-height: 56px;
+    max-width: 375px;
+    height: 100%;
+    width: 80%;
+    border-radius: 30px;
+    overflow: visible;
+    background-color: transparent;
+    border: none;
+    margin-left: 2px;
+    outline-style: none;
+    text-indent: 20px;
+    
+  }

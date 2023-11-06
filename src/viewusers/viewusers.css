@@ -1,0 +1,245 @@
+.menu-bar-viewusers {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+  }
+  
+  .grid-viewusers {
+    display: flex;
+    align-items: left;
+    margin: 50px;
+    margin-top: 5%;
+    cursor: pointer;
+    font-Size: 38px;
+  }
+  
+  .grid-viewusers:hover {
+    color: #007C4C;
+  }
+  
+  .grid-viewusers span {
+    margin-left: 10px;
+  }
+  .menu-item-viewusers {
+    display: flex;
+    align-items: left;
+    margin: 50px;
+    margin-top: 2%;
+    cursor: pointer;
+    font-Size: 38px;
+  }
+  
+  .menu-item-viewusers:hover {
+    color: #007C4C;
+  }
+  
+  .menu-item-viewusers span {
+    margin-left: 10px;
+  }
+  
+  .log-out-viewusers {
+    display: flex;
+    align-items: left;
+    margin: 50px;
+    margin-top: 8.5%;
+    cursor: pointer;
+    font-Size: 38px;
+  }
+  
+  .log-out-viewusers:hover {
+    color: #007C4C;
+  }
+  
+  .log-out-viewusers span {
+    margin-left: 10px;
+  }
+  .img-viewusers {
+    
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+  }
+  .search-container-viewusers {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #ffffff;
+  
+   
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .search-input-viewusers {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 40px;
+  }
+  .search-icon-viewusers {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  
+  font-size: 20px;
+  
+  }
+  .filter-icon-viewusers {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left:1850px;
+    top:57px;
+    font-size: 20px;
+    
+    }
+    .filter-icon-viewusers svg {
+      fill: #008D41
+      ;
+    }
+  .search-icon-viewusers svg {
+    fill: rgba(0,141,65,1)
+    ;
+  }
+  .filter-icon-viewusers {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left:1320px;
+    top:85px;
+    font-size: 20px;
+    
+    }
+    .filter-icon-viewusers svg {
+      fill: #008D41
+      ;
+    }
+    .card-viewusers {
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+      overflow: hidden;
+      position: absolute;
+  width: 244.85px;
+  height: 231.85px;
+  
+  
+    }
+    
+    
+    
+    .card-content-viewusers {
+      padding: 20px;
+    }
+    
+    .card-content-viewusers h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    
+    .card-content-viewusers p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    .circle-viewusers{
+      position: absolute;
+      top: 25%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 94px;
+      height: 94px;
+      border-radius: 50%;
+      background-color:  #87DFB6;
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      
+    }
+    .letter-viewusers{
+  position: absolute;
+  width: 94px;
+  height: 94px;
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.045em;
+  color: #4A9170;
+    }
+    .role-viewusers{
+  position: absolute;
+  width: 164px;
+  height: 18px;
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.045em;
+  
+  color: #444751;
+  
+    }
+    .name-viewusers{
+      position: absolute;
+  width: 164px;
+  height: 19px;
+  
+  /* Med16 */
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  
+  color: #444751;
+  
+    }
+    .email-viewusers{
+  
+      position: absolute;
+  width: 191px;
+  height: 25px;
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.045em;
+  
+  color: #444751;
+  
+    }
+
+    .pen-icon {
+      margin-left: 5px;
+      color: black;
+    }
+    
+    .pen-icon:hover {
+      color: #007C4C;
+    }
+    

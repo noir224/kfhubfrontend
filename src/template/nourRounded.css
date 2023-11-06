@@ -1,0 +1,48 @@
+
+.rounded-background-nour {
+    position: relative;
+    width: 92%;
+    height: 100%;
+    min-width: 400px;
+    min-height: 600px;
+    padding-top: 4.5%;
+    background: rgba(0, 124, 76, 0.15);
+    backdrop-filter: blur(2px);
+    border-radius: 25px;
+    top: 100px;
+    right: -1252.98px;
+    bottom: -990.39px;
+    left: 80.98px;
+    
+    @media (max-width: 767px) {
+        top: 100.39px;
+        left: 0.98px;
+        right: -433.98px;
+    }
+    
+    @media (max-width: 479px) {
+        right: -570.98px;
+    }
+    
+    @media (max-width: 575px) {
+        right: -366.98px;
+    }
+    
+    @media (max-width: 991px) {
+        right: -656.98px;
+    }
+    
+    @media (max-width: 1199px) {
+        right: -876.98px;
+    }
+    
+    @media (max-width: 1399px) {
+        right: -1058.98px;
+    }
+    
+    @media (min-width: 1920px) and (max-width: 2999px) {
+        right: -1746.98px;
+    }
+    
+  }
+  
